@@ -1,0 +1,17 @@
+/**/
+
+.contenidoPrincipal {
+    /**/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-left: 4.7%;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    width: 90%;
+    height: 456px;
+    border: 1px solid #000;
+    box-shadow: 3px 5px 5px #000;
+    background: #fff;
+}
